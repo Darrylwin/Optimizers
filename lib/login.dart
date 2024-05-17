@@ -21,10 +21,10 @@ class _MyLoginState extends State<MyLogin> {
         body: Stack(
           children: [
             Container(
-              padding: EdgeInsets.only(left: 100, top: 130),
-              child: Text("Welcome\nBack",style: TextStyle(
+              padding: EdgeInsets.only(left: 120, top: 120),
+              child: Text("Welcome Back",style: TextStyle(
                 color: Colors.white,
-                fontSize: 40
+                fontSize: 60
               ),),
             ),
             Container(
