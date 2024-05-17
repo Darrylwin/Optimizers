@@ -33,7 +33,7 @@ class _MyLoginState extends State<MyLogin> {
               left: 35),
               child: Column(
                 children: [
-                  Textfield(
+                  TextField(
                     decoration: InputDecoration(
                       fillColor: Colors.pink.shade100,
                       filled: true,
@@ -43,7 +43,7 @@ class _MyLoginState extends State<MyLogin> {
                       )
                     ),
                   ),
-                  Textfield(
+                  TextField(
                     decoration: InputDecoration(
                       fillColor: Colors.pink.shade100,
                       filled: true,
